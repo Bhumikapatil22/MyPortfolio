@@ -1,1 +1,2 @@
 # MyPortfolio
+HTML only
